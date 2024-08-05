@@ -3,15 +3,9 @@
 ## 🚀 About Me
 I'm a Technical Program Manager and AWS Certified Solutions Architect passionate about cloud technologies, Agile methodologies, and driving innovation. With a background in both tech and education, I bring a unique perspective to solving complex problems.
 
-![AWS Badge](https://img.shields.io/badge/-AWS%20Certified-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Scrum Badge](https://img.shields.io/badge/-Certified%20Scrum%20Master-blue?style=flat-square&logo=scrumalliance&logoColor=white)
-
-## 🛠 Skills
-- Cloud Architecture (AWS)
-- Agile/Scrum Methodologies
-- CI/CD & DevOps Practices
-- Program Management
-- Data Stream Processing (Kafka)
+![ISC2 Badge](https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-000000?style=flat-square&logo=isc2&logoColor=white)
+![AWS Solutions Architect Badge](https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 🔭 I'm currently working on
 - Implementing serverless architectures
@@ -54,4 +48,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🛠 Skills
+- Cloud Architecture (AWS)
+- Agile/Scrum Methodologies
+- CI/CD & DevOps Practices
+- Program Management
+- Data Stream Processing (Kafka)
 -->
