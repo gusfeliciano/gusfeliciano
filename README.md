@@ -13,9 +13,6 @@ I'm a Technical Program Manager and AWS Certified Solutions Architect passionate
 - Program Management
 - Data Stream Processing (Kafka)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
 ## 🔭 I'm currently working on
 - Implementing serverless architectures
 - Optimizing cloud costs for large-scale applications
@@ -42,7 +39,7 @@ I'm a Technical Program Manager and AWS Certified Solutions Architect passionate
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Fun fact
-When I'm not immersed in the cloud, you can find me [Insert a hobby or interesting fact about yourself]!
+When I'm not immersed in the cloud, you can find me hiking anywhere I can across Colorado!
 
 <!--
 **gusfeliciano/gusfeliciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
