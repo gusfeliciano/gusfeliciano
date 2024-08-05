@@ -17,11 +17,6 @@ I'm a Technical Program Manager and AWS Certified Solutions Architect passionate
 - Kubernetes for container orchestration
 - Terraform for infrastructure as code
 
-## 👯 I'm looking to collaborate on
-- Open-source projects related to cloud infrastructure
-- Tools for automating cloud deployments
-- Innovative EdTech solutions
-
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Gus.Feliciano@outlook.com)
@@ -55,4 +50,9 @@ Here are some ideas to get you started:
 - CI/CD & DevOps Practices
 - Program Management
 - Data Stream Processing (Kafka)
+
+## 👯 I'm looking to collaborate on
+- Open-source projects related to cloud infrastructure
+- Tools for automating cloud deployments
+- Innovative EdTech solutions
 -->
