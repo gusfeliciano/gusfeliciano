@@ -7,11 +7,6 @@ I'm a Technical Program Manager and AWS Certified Solutions Architect passionate
 ![ISC2 Badge](https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-000000?style=flat-square&logo=isc2&logoColor=white)
 ![AWS Solutions Architect Badge](https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 🔭 I'm currently working on
-- Implementing serverless architectures
-- Optimizing cloud costs for large-scale applications
-- Exploring AI/ML integration in cloud environments
-
 ## 🌱 I'm currently learning
 - Advanced Kafka stream processing
 - Kubernetes for container orchestration
@@ -44,15 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## 🛠 Skills
-- Cloud Architecture (AWS)
-- Agile/Scrum Methodologies
-- CI/CD & DevOps Practices
-- Program Management
-- Data Stream Processing (Kafka)
-
-## 👯 I'm looking to collaborate on
-- Open-source projects related to cloud infrastructure
-- Tools for automating cloud deployments
-- Innovative EdTech solutions
 -->
