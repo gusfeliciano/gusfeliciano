@@ -14,7 +14,7 @@ I'm a Technical Program and Product Manager passionate about cloud technologies,
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Cloud-Native Website with AWS: From Static Hosting to Dynamic Content](https://www.gusfeliciano.com/blog/cloud-resume-challenge-part-1)
-- [Automating Deployment of Your Cloud-Native Website: A Guide to CI/CD with GitHub Actions](#)
+- [Automating Deployment of Your Cloud-Native Website: A Guide to CI/CD with GitHub Actions](https://www.gusfeliciano.com/blog/automating-aws-deployments-ci-cd-for-your-cloud-resume)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Fun fact
