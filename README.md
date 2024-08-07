@@ -1,16 +1,11 @@
 # Hello, I'm Gus Feliciano! 👋
 
 ## 🚀 About Me
-I'm a Technical Program Manager and AWS Certified Solutions Architect passionate about cloud technologies, Agile methodologies, and driving innovation. With a background in both tech and education, I bring a unique perspective to solving complex problems.
+I'm a Technical Program and Product Manager passionate about cloud technologies, Agile methodologies, and driving innovation. With a background in both tech and education, I bring a unique perspective to solving complex problems.
 
 ![Scrum Badge](https://img.shields.io/badge/-Certified%20Scrum%20Master-blue?style=flat-square&logo=scrumalliance&logoColor=white)
 ![ISC2 Badge](https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-000000?style=flat-square&logo=isc2&logoColor=white)
 ![AWS Solutions Architect Badge](https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-## 🌱 I'm currently learning
-- Advanced Kafka stream processing
-- Kubernetes for container orchestration
-- Terraform for infrastructure as code
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile)
@@ -18,7 +13,7 @@ I'm a Technical Program Manager and AWS Certified Solutions Architect passionate
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cloud-Native Website with AWS: From Static Hosting to Dynamic Content](#)
+- [Building a Cloud-Native Website with AWS: From Static Hosting to Dynamic Content]([#](https://www.gusfeliciano.com/blog/cloud-resume-challenge-part-1))
 - [Automating Deployment of Your Cloud-Native Website: A Guide to CI/CD with GitHub Actions](#)
 <!-- BLOG-POST-LIST:END -->
 
