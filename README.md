@@ -1,7 +1,6 @@
 # Hello, I'm Gus Feliciano! 👋
 
-## 🚀 About Me
-I'm a Technical Program and Product Manager passionate about cloud technologies, Agile methodologies, and driving innovation. With a background in both tech and education, I bring a unique perspective to solving complex problems.
+I'm a Technical Program and Product Manager passionate about cloud technologies, agile methodologies, and driving innovation. With a background in both tech and education, I bring a unique perspective to solving complex problems.
 
 ![Scrum Badge](https://img.shields.io/badge/-Certified%20Scrum%20Master-blue?style=flat-square&logo=scrumalliance&logoColor=white)
 ![ISC2 Badge](https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-000000?style=flat-square&logo=isc2&logoColor=white)
