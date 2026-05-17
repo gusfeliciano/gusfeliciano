@@ -1,6 +1,19 @@
-# Hello, I'm Gus Feliciano! 👋
+# Hi, I'm Gus
 
-I'm a Technical Program and Product Manager passionate about cloud technologies, agile methodologies, and driving innovation. With a background in both tech and education, I bring a unique perspective to solving complex problems.
+I'm a Senior Technical Program Manager. My day-to-day is running cross-functional initiatives across engineering and data — currently a lot of AI tooling rollouts, but the work rotates with whatever the org needs unstuck. Outside of work I build my own AI agent tooling and run a homelab where most of it gets tested first.
+
+## What I'm into
+
+- Making AI agents actually useful — especially the boring memory and context parts that turn a fancy autocomplete into a real collaborator
+- Cloud-native infrastructure at every scale, from production at work to whatever I'm running in my homelab this week
+- Bridging the gap between technical work and program management — both for stakeholders at work and for non-technical folks who'd like to use AI tools
+
+## Public projects
+
+- **[basecamp](https://github.com/gusfeliciano/basecamp)** — portable memory bank and slash commands for AI coding agents. Works with Claude Code and Codex.
+- More on the way; the good ones go public when they're ready.
+
+From earlier: [aws-resume-cicd](https://github.com/gusfeliciano/aws-resume-cicd) (Cloud Resume Challenge CI/CD pipeline) and [gusfeliciano-website](https://github.com/gusfeliciano/gusfeliciano-website) (this site, Next.js + Tailwind).
 
 ![Scrum Badge](https://img.shields.io/badge/-Certified%20Scrum%20Master-blue?style=flat-square&logo=scrumalliance&logoColor=white)
 ![ISC2 Badge](https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-000000?style=flat-square&logo=isc2&logoColor=white)
@@ -35,3 +48,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+
+
+
