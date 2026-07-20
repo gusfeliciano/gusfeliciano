@@ -10,7 +10,7 @@ I'm a Senior Technical Program Manager. My day-to-day is running cross-functiona
 
 ## Public projects
 
-- **[basecamp](https://github.com/gusfeliciano/basecamp)** — portable memory bank and slash commands for AI coding agents. Works with Claude Code and Codex.
+- **[serel](https://github.com/madeordinary/serel-memory)** — portable memory bank and slash commands for AI coding agents. Works with Claude Code and Codex.
 - More on the way; the good ones go public when they're ready.
 
 From earlier: [aws-resume-cicd](https://github.com/gusfeliciano/aws-resume-cicd) (Cloud Resume Challenge CI/CD pipeline) and [gusfeliciano-website](https://github.com/gusfeliciano/gusfeliciano-website) (this site, Next.js + Tailwind).
