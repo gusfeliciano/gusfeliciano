@@ -31,7 +31,7 @@ From earlier: [aws-resume-cicd](https://github.com/gusfeliciano/aws-resume-cicd)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Fun fact
-When I'm not immersed in the cloud, you can find me hiking anywhere I can across Colorado!
+When I'm not immersed in the cloud, you can find me hiking anywhere I can across Texas!
 
 <!--
 **gusfeliciano/gusfeliciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
