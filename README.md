@@ -10,17 +10,17 @@ I'm a Senior Technical Program Manager. My day-to-day is running cross-functiona
 
 ## Public projects
 
-- **[serel](https://github.com/madeordinary/serel-memory)** — portable memory bank and slash commands for AI coding agents. Works with Claude Code and Codex.
+- **[Serel Memory](https://github.com/madeordinary/serel-memory)** — a portable memory bank and workflow kit for AI coding agents. I created and maintain it through [Made Ordinary](https://github.com/madeordinary); it works with Claude Code and Codex.
 - More on the way; the good ones go public when they're ready.
 
-From earlier: [aws-resume-cicd](https://github.com/gusfeliciano/aws-resume-cicd) (Cloud Resume Challenge CI/CD pipeline) and [gusfeliciano-website](https://github.com/gusfeliciano/gusfeliciano-website) (this site, Next.js + Tailwind).
+From earlier: [aws-resume-cicd](https://github.com/gusfeliciano/aws-resume-cicd) (Cloud Resume Challenge CI/CD pipeline). My selected work and writing live at [gusfeliciano.com](https://gusfeliciano.com).
 
 ![Scrum Badge](https://img.shields.io/badge/-Certified%20Scrum%20Master-blue?style=flat-square&logo=scrumalliance&logoColor=white)
 ![ISC2 Badge](https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-000000?style=flat-square&logo=isc2&logoColor=white)
 ![AWS Solutions Architect Badge](https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofeliciano)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Gus.Feliciano@outlook.com)
 
 ## 📚 Latest Blog Posts
@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
 
 
 
