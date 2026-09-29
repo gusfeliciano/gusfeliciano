@@ -10,8 +10,10 @@ I'm a Senior Technical Program Manager. My day-to-day is running cross-functiona
 
 ## Public projects
 
-- **[Serel Memory](https://github.com/madeordinary/serel-memory)** — a portable memory bank and workflow kit for AI coding agents. I created and maintain it through [Made Ordinary](https://github.com/madeordinary); it works with Claude Code and Codex.
-- More on the way; the good ones go public when they're ready.
+- **[Serel Memory](https://github.com/madeordinary/serel-memory)** — a portable memory bank and the core workflows around it, so a coding agent picks up where you left off. Works with Claude Code and Codex, on its own.
+- **[Serel Kit](https://github.com/madeordinary/serel-kit)** — optional add-on workflow packs: plain-language writing polish, and manual-verification maps. The writing pack runs without Memory.
+
+Both created and maintained by me through [Made Ordinary](https://github.com/madeordinary). [Start here](https://github.com/madeordinary/serel-memory#start-here) to set up both together, choose one, or update an existing installation.
 
 From earlier: [aws-resume-cicd](https://github.com/gusfeliciano/aws-resume-cicd) (Cloud Resume Challenge CI/CD pipeline). My selected work and writing live at [gusfeliciano.com](https://gusfeliciano.com).
 
