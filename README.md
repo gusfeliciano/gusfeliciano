@@ -1,55 +1,31 @@
 # Hi, I'm Gus
 
-I'm a Senior Technical Program Manager. My day-to-day is running cross-functional initiatives across engineering and data — currently a lot of AI tooling rollouts, but the work rotates with whatever the org needs unstuck. Outside of work I build my own AI agent tooling and run a homelab where most of it gets tested first.
+I'm a Senior Technical Program Manager in Fort Worth. At work I lead a company-wide AI rollout at a consumer-lending company: Claude and Claude Code for about 75 people, MCP integrations across the internal tools, and the custom MCP servers and vendor governance that go with it.
+
+I also build things myself.
+
+## What I build
+
+- **[Tavo Stack](https://github.com/gusfeliciano/tavostack)**: a project memory bank for Claude Code. It keeps a project's context in Markdown files in the repository, so a coding agent picks up where the last session left off. Use it as a plugin or copy it into a project.
+
+Tavo Stack continues my earlier project, Serel Memory.
 
 ## What I'm into
 
-- Making AI agents actually useful — especially the boring memory and context parts that turn a fancy autocomplete into a real collaborator
-- Cloud-native infrastructure at every scale, from production at work to whatever I'm running in my homelab this week
-- Bridging the gap between technical work and program management — both for stakeholders at work and for non-technical folks who'd like to use AI tools
+- Making AI agents useful in day-to-day work, especially the boring memory and context parts
+- Rolling AI tools out to whole teams: adoption, governance, and what breaks
+- Local-first Mac software
+- A homelab where most of this gets tested first
 
-## Public projects
+## More
 
-- **[Serel Memory](https://github.com/madeordinary/serel-memory)** — a portable memory bank and the core workflows around it, so a coding agent picks up where you left off. Works with Claude Code and Codex, on its own.
-- **[Serel Kit](https://github.com/madeordinary/serel-kit)** — optional add-on workflow packs: plain-language writing polish, and manual-verification maps. The writing pack runs without Memory.
-
-Both created and maintained by me through [Made Ordinary](https://github.com/madeordinary). [Start here](https://github.com/madeordinary/serel-memory#start-here) to set up both together, choose one, or update an existing installation.
-
-From earlier: [aws-resume-cicd](https://github.com/gusfeliciano/aws-resume-cicd) (Cloud Resume Challenge CI/CD pipeline). My selected work and writing live at [gusfeliciano.com](https://gusfeliciano.com).
+Selected work and writing are at [gusfeliciano.com](https://gusfeliciano.com).
 
 ![Scrum Badge](https://img.shields.io/badge/-Certified%20Scrum%20Master-blue?style=flat-square&logo=scrumalliance&logoColor=white)
 ![ISC2 Badge](https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-000000?style=flat-square&logo=isc2&logoColor=white)
 ![AWS Solutions Architect Badge](https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofeliciano)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Gus.Feliciano@outlook.com)
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building a Cloud-Native Website with AWS: From Static Hosting to Dynamic Content](https://www.gusfeliciano.com/blog/serverless-aws-portfolio-building-a-dynamic-resume-website)
-- [Automating Deployment of Your Cloud-Native Website: A Guide to CI/CD with GitHub Actions](https://www.gusfeliciano.com/blog/automating-aws-deployments-ci-cd-for-your-cloud-resume)
-- [Why You Need a Personal Website: My Journey in Creating Mine](https://www.gusfeliciano.com/blog/why-you-need-a-personal-website)
-<!-- BLOG-POST-LIST:END -->
-
-## ⚡ Fun fact
-When I'm not immersed in the cloud, you can find me hiking anywhere I can across Texas!
-
-<!--
-**gusfeliciano/gusfeliciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-
-
+When I'm not at a keyboard, I'm usually hiking somewhere in Texas.
